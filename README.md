@@ -1,197 +1,187 @@
-# 👋 Hi, I'm Ashutosh Kumar Singh
+<div align="center">
 
-### AI Engineer | Agentic AI • RAG • Backend Systems
+# Ashutosh Kumar Singh
 
-I build **AI-powered systems, intelligent automation workflows, and
-backend infrastructure** with a focus on Agentic AI, RAG, LLM applications,
-and production-oriented engineering.
+### AI Engineer · Agentic AI · RAG · AI Systems
 
-Currently working as an **AI Engineer Intern at Nexyrium**, building
-agentic AI systems, LLM tool-calling workflows, operational intelligence,
-automation, and AI evaluation infrastructure.
+**I build AI systems that don't just generate — they reason, retrieve, act, and get evaluated.**
 
----
+<br/>
 
-## 🚀 What I Build
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-singh-086546210/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ashutosh0540)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ashutoshyaduvansidm@gmail.com)
 
-- 🤖 **Agentic AI & LLM Applications**
-- 🔎 **RAG & Semantic Search Systems**
-- ⚙️ **AI-powered Backend Systems**
-- 🛡️ **AI Security & Authorization**
-- 👁️ **Computer Vision & Machine Learning**
-- 🔄 **Intelligent Automation**
+</div>
 
 ---
 
-## 🧠 Tech Stack
+## ⚡ What I Do
 
-### AI / GenAI
-![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1C1C1C?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-1C1C1C?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-1C1C1C?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLM_Applications-1C1C1C?style=flat-square)
+I work at the intersection of **AI engineering and backend systems**.
 
-### Machine Learning & Retrieval
-![PyTorch](https://img.shields.io/badge/PyTorch-1C1C1C?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1C1C1C?style=flat-square)
-![YOLO](https://img.shields.io/badge/YOLO-1C1C1C?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-1C1C1C?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-1C1C1C?style=flat-square)
-
-### Backend & APIs
-![Python](https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-1C1C1C?style=flat-square&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C1C1C?style=flat-square&logo=postgresql)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1C1C1C?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-1C1C1C?style=flat-square)
-
-### Infrastructure
-![Docker](https://img.shields.io/badge/Docker-1C1C1C?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-1C1C1C?style=flat-square&logo=amazonaws)
-![Redis](https://img.shields.io/badge/Redis-1C1C1C?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square)
-
-### Languages
-`Python` · `TypeScript` · `JavaScript` · `Java` · `SQL`
-
----
-
-# ⭐ Featured Work
-
-## 🛡️ TRUSTRAIL
-
-### Agent Payment Authorization Gateway
-
-A deterministic security layer designed to evaluate AI-agent
-transaction proposals before payment execution.
-
-**FastAPI · PostgreSQL · Docker · Next.js**
-
-### Engineering Highlights
-
-- Built a deterministic decision engine evaluating transactions
-  against **intent, policy, risk, and threat checks**
-- Improved threat-detection **F1 from 83.5% → 100%**
-- Reduced false positives from **18.8% → 0%**
-- Evaluated on an **80-case held-out evaluation**
-- Shipped with **44 passing tests**
-
----
-
-## 🧠 AegisAI
-
-### Enterprise AI Operations Platform
-
-A full-stack AI platform combining multi-agent RAG,
-backend infrastructure, security controls, and enterprise workflows.
-
-**React · Next.js · FastAPI · LangGraph · PostgreSQL · Redis**
-
-### Engineering Highlights
-
-- Built a JWT-authenticated and RBAC-scoped FastAPI backend
-- Implemented a PostgreSQL/Redis data layer
-- Integrated a **LangGraph-orchestrated multi-agent RAG pipeline**
-- Used **Pinecone / FAISS and HuggingFace embeddings**
-- Added PII masking, prompt-injection detection, and audit logging
-
----
-
-## 🤖 Closira AI Agent
-
-AI-powered support and automation workflow focused on
-LLM applications and intelligent workflows.
-
-**Python · LLMs · AI Agents · RAG**
-
----
-
-## ☀️ Suryamukhi
-
-### Autonomous Solar Tracking & Self-Cleaning Framework
-
-A computer-vision and machine-learning based system for
-autonomous solar tracking and panel cleaning.
-
-**Computer Vision · Machine Learning · Reinforcement Learning**
-
-📜 **Patent Published**
-
----
-
-## 📰 SocialShield
-
-### AI Misinformation Detection
-
-Research project focused on detecting misinformation
-using artificial intelligence.
-
-**92.78% Accuracy**
-
-📄 **IEEE Published Research**
-
----
-
-# 🏆 Achievements
-
-🏅 **Top 10 Finalist** — UiPath AgentHack India 2025
-
-🥈 **2nd Runner-Up** — Navonmesh AIdea Challenge 2025
-
-🏆 **Best Design Award** — IEEE SSH 2024
-
-📜 **Patent Published** — Suryamukhi
-
-📄 **IEEE Published Research** — SocialShield
-
-💻 **200+ DSA Problems** — LeetCode
-
----
-
-# 💼 Experience
-
-### AI Engineer Intern — Nexyrium
-
-**June 2026 – Present · Remote**
-
-Working on AI-powered operational systems involving:
-
-- Agentic AI
-- LLM tool calling
-- Human-in-the-loop workflows
-- Operational intelligence
-- Supabase / PostgreSQL automation
-- AI evaluation & observability
-- LangGraph & LangSmith
-
----
-
-# 🔬 Areas of Interest
+My focus is building systems around:
 
 ```text
-Agentic AI
+LLMs
+ ↓
+Retrieval ────────→ RAG
+ ↓
+Reasoning ────────→ Agents
+ ↓
+Tool Calling ─────→ Actions
+ ↓
+Guardrails ───────→ Safety
+ ↓
+Evaluation ───────→ Reliability
+ ↓
+Production ───────→ Real Systems
+
+Currently, I'm an AI Engineer Intern at Nexyrium, working on
+agentic AI, tool-calling workflows, operational intelligence,
+human-in-the-loop automation, and AI evaluation infrastructure.
+
+🚀 Selected Work
+<table> <tr> <td width="50%">
+🛡️ TRUSTRAIL
+
+AI Agent Payment Authorization
+
+A deterministic security gateway that sits between autonomous AI agents and payment execution.
+
+Built with
+
+FastAPI PostgreSQL Docker Next.js
+
+Evaluation
+
+F1: 83.5% → 100%
+False positives: 18.8% → 0%
+80-case held-out evaluation
+44 passing tests
+
+→ View Repository
+
+</td> <td width="50%">
+🧠 AegisAI
+
+Enterprise AI Operations Platform
+
+Full-stack AI system combining multi-agent RAG, security controls, and production backend infrastructure.
+
+Built with
+
+LangGraph FastAPI PostgreSQL Redis
+
+Core systems
+
+Multi-agent RAG
+PII masking
+Prompt-injection detection
+RBAC
+Audit logging
+
+→ View Repository
+
+</td> </tr> <tr> <td width="50%">
+🤖 Closira
+
+AI Support & Automation Agent
+
+An AI-powered workflow system designed around intelligent support, retrieval, and automation.
+
+Python LLMs RAG Agents
+
+→ View Repository
+
+</td> <td width="50%">
+☀️ Suryamukhi
+
+Autonomous Solar Intelligence
+
+Computer vision + machine learning system for autonomous solar tracking and panel cleaning.
+
+Computer Vision ML RL
+
+🏆 IEEE Best Design Award
+📜 Patent Published
+
+</td> </tr> </table>
+🧩 My Engineering Stack
+AI Systems
+
+Agentic AI · RAG · LLM Applications · Tool Calling
+LangGraph · LangChain · LlamaIndex · LangSmith
+
+Retrieval & ML
+
+FAISS · Pinecone · Embeddings · Semantic Search
+PyTorch · HuggingFace · YOLO
+
+Backend
+
+Python · FastAPI · PostgreSQL · SQLAlchemy
+REST APIs · Redis · Microservices
+
+Infrastructure
+
+Docker · AWS · Supabase
+
+Languages
+
+Python · TypeScript · JavaScript · Java · SQL
+
+🔬 Research
+SocialShield
+
+AI-powered misinformation detection
+
+📊 92.78% accuracy
+
+📄 IEEE Published Research
+
+🏆 A Few Things I've Built Toward
+	
+🥇	IEEE Best Design Award — 2024
+🥈	2nd Runner-Up — Navonmesh AIdea Challenge 2025
+🏅	Top 10 — UiPath AgentHack India 2025
+📜	Patent — Suryamukhi
+📄	IEEE Published Research — SocialShield
+💻	200+ DSA problems solved
+🧠 What I'm Exploring
+Agentic Systems
       │
-      ├── LLM Applications
+      ├── Planning
       ├── Tool Calling
-      ├── Multi-Agent Systems
-      │
+      ├── Multi-Agent Workflows
       └── Human-in-the-Loop
 
 RAG
       │
+      ├── Retrieval
+      ├── Reranking
       ├── Embeddings
-      ├── Vector Search
-      ├── Semantic Retrieval
-      └── Retrieval Pipelines
+      └── Evaluation
 
-Backend
+Production AI
       │
-      ├── FastAPI
-      ├── PostgreSQL
-      ├── REST APIs
-      ├── Redis
-      └── Docker
+      ├── Observability
+      ├── Guardrails
+      ├── Reliability
+      └── Deployment
 
-<!--
+I'm particularly interested in the gap between:
+
+"LLM demo" → "reliable AI system"
+
+🔭 Currently Building
+
+Agentic AI · RAG · AI Automation · AI Infrastructure
+
+<div align="center">
+If you're building something interesting with AI, let's connect.
+<br/>
+
+LinkedIn · GitHub
+
+</div> ```
