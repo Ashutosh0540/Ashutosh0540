@@ -2,125 +2,169 @@
 
 # Ashutosh Kumar Singh
 
-### AI Engineer · Agentic AI · RAG · AI Systems
+### AI Engineer · Agentic AI · RAG · Backend Systems
 
-**I build AI systems that don't just generate — they reason, retrieve, act, and get evaluated.**
+**Building AI systems that reason, retrieve, act, and get evaluated.**
 
-<br/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-singh-086546210/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ashutosh0540)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ashutoshyaduvansidm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-singh-086546210/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshyaduvansidm@gmail.com)
 
 </div>
 
 ---
 
-## ⚡ What I Do
+## 🧠 About Me
 
-I work at the intersection of **AI engineering and backend systems**.
+I'm an **AI Engineer** focused on turning LLM capabilities into
+reliable software systems.
 
-My focus is building systems around:
+My work sits around four areas:
+
+**Agentic AI** · **RAG** · **AI Security** · **Backend Engineering**
+
+Currently, I'm working as an **AI Engineer Intern at Nexyrium**, where I
+build agentic workflows, LLM tool-calling systems, operational
+intelligence, human-in-the-loop automation, and AI evaluation
+infrastructure.
+
+---
+
+## ⚡ The Kind of Systems I Build
 
 ```text
-LLMs
- ↓
-Retrieval ────────→ RAG
- ↓
-Reasoning ────────→ Agents
- ↓
-Tool Calling ─────→ Actions
- ↓
-Guardrails ───────→ Safety
- ↓
-Evaluation ───────→ Reliability
- ↓
-Production ───────→ Real Systems
+                    USER / APPLICATION
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │     LLM     │
+                    └──────┬──────┘
+                           │
+              ┌────────────┼────────────┐
+              ▼            ▼            ▼
+          Retrieval     Reasoning    Tool Calling
+              │            │            │
+              └────────────┼────────────┘
+                           ▼
+                    ┌─────────────┐
+                    │  Guardrails │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   Actions   │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    Evaluation
+                    & Observability
 
-Currently, I'm an AI Engineer Intern at Nexyrium, working on
-agentic AI, tool-calling workflows, operational intelligence,
-human-in-the-loop automation, and AI evaluation infrastructure.
+I particularly enjoy working on the gap between:
 
-🚀 Selected Work
-<table> <tr> <td width="50%">
+LLM demo → reliable AI system
+
+🚀 Selected Engineering Work
 🛡️ TRUSTRAIL
+Agent Payment Authorization Gateway
 
-AI Agent Payment Authorization
+A deterministic security layer between autonomous AI agents
+and payment execution.
 
-A deterministic security gateway that sits between autonomous AI agents and payment execution.
+Stack
 
-Built with
+FastAPI · PostgreSQL · Docker · Next.js
 
-FastAPI PostgreSQL Docker Next.js
+Engineering
+
+Deterministic transaction decision engine
+Intent, policy, risk and threat checks
+Persisted authorization decisions
+Full-stack Dockerized deployment
+44 passing tests
 
 Evaluation
 
-F1: 83.5% → 100%
-False positives: 18.8% → 0%
-80-case held-out evaluation
-44 passing tests
+Metric	Result
+Threat Detection F1	83.5% → 100%
+False Positives	18.8% → 0%
+Held-out Evaluation	80 cases
+Tests	44 passing
 
-→ View Repository
+→ Explore TRUSTRAIL
 
-</td> <td width="50%">
 🧠 AegisAI
-
 Enterprise AI Operations Platform
 
-Full-stack AI system combining multi-agent RAG, security controls, and production backend infrastructure.
+A full-stack AI platform combining multi-agent RAG,
+security controls, and production backend infrastructure.
 
-Built with
+Stack
 
-LangGraph FastAPI PostgreSQL Redis
+LangGraph · FastAPI · PostgreSQL · Redis
+· Pinecone · FAISS
 
-Core systems
+Built around
 
-Multi-agent RAG
+Multi-agent RAG orchestration
+JWT authentication & RBAC
 PII masking
 Prompt-injection detection
-RBAC
+Vector retrieval
 Audit logging
+PostgreSQL / Redis infrastructure
+🤖 Closira AI Agent
+AI Support & Automation
 
-→ View Repository
+An AI-powered workflow system focused on intelligent support,
+retrieval, and automation.
 
-</td> </tr> <tr> <td width="50%">
-🤖 Closira
+Stack
 
-AI Support & Automation Agent
+Python · LLMs · RAG · AI Agents
 
-An AI-powered workflow system designed around intelligent support, retrieval, and automation.
+→ Explore Closira
 
-Python LLMs RAG Agents
-
-→ View Repository
-
-</td> <td width="50%">
 ☀️ Suryamukhi
-
 Autonomous Solar Intelligence
 
-Computer vision + machine learning system for autonomous solar tracking and panel cleaning.
+A computer-vision and machine-learning system for autonomous
+solar tracking and panel cleaning.
 
-Computer Vision ML RL
+Stack
 
-🏆 IEEE Best Design Award
+Computer Vision · Machine Learning · Reinforcement Learning
+
+🏆 IEEE Best Design Award — 2024
+
 📜 Patent Published
 
-</td> </tr> </table>
-🧩 My Engineering Stack
-AI Systems
+🔬 SocialShield
+AI Misinformation Detection
+
+Research focused on detecting misinformation using AI.
+
+92.78% accuracy
+
+📄 IEEE Published Research
+
+🧰 Engineering Stack
+AI / GenAI
 
 Agentic AI · RAG · LLM Applications · Tool Calling
+
 LangGraph · LangChain · LlamaIndex · LangSmith
 
-Retrieval & ML
+Retrieval / ML
 
 FAISS · Pinecone · Embeddings · Semantic Search
+
 PyTorch · HuggingFace · YOLO
 
 Backend
 
 Python · FastAPI · PostgreSQL · SQLAlchemy
+
 REST APIs · Redis · Microservices
 
 Infrastructure
@@ -131,56 +175,61 @@ Languages
 
 Python · TypeScript · JavaScript · Java · SQL
 
-🔬 Research
+🏆 Recognition
+
+🏅 Top 10 Finalist
+UiPath AgentHack India 2025
+
+🥈 2nd Runner-Up
+Navonmesh AIdea Challenge 2025
+
+🏆 Best Design Award
+IEEE SSH 2024
+
+📜 Patent
+Suryamukhi
+
+📄 IEEE Publication
 SocialShield
 
-AI-powered misinformation detection
+💻 200+ DSA Problems
+LeetCode
 
-📊 92.78% accuracy
+💼 Experience
+AI Engineer Intern — Nexyrium
 
-📄 IEEE Published Research
+June 2026 — Present · Remote
 
-🏆 A Few Things I've Built Toward
-	
-🥇	IEEE Best Design Award — 2024
-🥈	2nd Runner-Up — Navonmesh AIdea Challenge 2025
-🏅	Top 10 — UiPath AgentHack India 2025
-📜	Patent — Suryamukhi
-📄	IEEE Published Research — SocialShield
-💻	200+ DSA problems solved
-🧠 What I'm Exploring
-Agentic Systems
-      │
-      ├── Planning
-      ├── Tool Calling
-      ├── Multi-Agent Workflows
-      └── Human-in-the-Loop
+Working on:
+
+Agentic AI systems
+LLM tool calling
+Human-in-the-loop workflows
+Operational intelligence
+AI automation
+LangGraph / LangSmith
+Evaluation & observability
+PostgreSQL / Supabase infrastructure
+🔭 Currently Exploring
+Agentic AI
+├── Planning
+├── Tool Calling
+├── Multi-Agent Systems
+└── Human-in-the-Loop
 
 RAG
-      │
-      ├── Retrieval
-      ├── Reranking
-      ├── Embeddings
-      └── Evaluation
+├── Retrieval
+├── Reranking
+├── Embeddings
+└── Evaluation
 
 Production AI
-      │
-      ├── Observability
-      ├── Guardrails
-      ├── Reliability
-      └── Deployment
-
-I'm particularly interested in the gap between:
-
-"LLM demo" → "reliable AI system"
-
-🔭 Currently Building
-
-Agentic AI · RAG · AI Automation · AI Infrastructure
-
+├── Guardrails
+├── Observability
+├── Reliability
+└── Deployment
 <div align="center">
-If you're building something interesting with AI, let's connect.
-<br/>
+Building reliable AI systems, not just AI demos.
 
 LinkedIn · GitHub
 
