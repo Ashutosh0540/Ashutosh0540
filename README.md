@@ -17,17 +17,13 @@
 
 ## 🧠 About Me
 
-I'm an **AI Engineer** focused on turning LLM capabilities into
-reliable software systems.
+I'm an **AI Engineer** focused on turning LLM capabilities into reliable software systems.
 
 My work sits around four areas:
 
 **Agentic AI** · **RAG** · **AI Security** · **Backend Engineering**
 
-Currently, I'm working as an **AI Engineer Intern at Nexyrium**, where I
-build agentic workflows, LLM tool-calling systems, operational
-intelligence, human-in-the-loop automation, and AI evaluation
-infrastructure.
+Currently, I'm working as an **AI Engineer Intern at Nexyrium**, where I build agentic workflows, LLM tool-calling systems, operational intelligence, human-in-the-loop automation, and AI evaluation infrastructure.
 
 ---
 
@@ -57,160 +53,171 @@ infrastructure.
                     └──────┬──────┘
                            │
                            ▼
-                    Evaluation
-                    & Observability
+                  Evaluation & Monitoring
+```
 
 I particularly enjoy working on the gap between:
 
-LLM demo → reliable AI system
+> **LLM demo → reliable AI system**
 
-🚀 Selected Engineering Work
-🛡️ TRUSTRAIL
-Agent Payment Authorization Gateway
+---
 
-A deterministic security layer between autonomous AI agents
-and payment execution.
+# 🚀 Selected Engineering Work
 
-Stack
+## 🛡️ TRUSTRAIL
 
-FastAPI · PostgreSQL · Docker · Next.js
+### Agent Payment Authorization Gateway
 
-Engineering
+A deterministic security layer between autonomous AI agents and payment execution.
 
-Deterministic transaction decision engine
-Intent, policy, risk and threat checks
-Persisted authorization decisions
-Full-stack Dockerized deployment
-44 passing tests
+**Stack:** `FastAPI` · `PostgreSQL` · `Docker` · `Next.js`
 
-Evaluation
+### Engineering
 
-Metric	Result
-Threat Detection F1	83.5% → 100%
-False Positives	18.8% → 0%
-Held-out Evaluation	80 cases
-Tests	44 passing
+- Deterministic transaction decision engine
+- Intent, policy, risk and threat checks
+- Persisted authorization decisions
+- Full-stack Dockerized deployment
+- 44 passing tests
 
-→ Explore TRUSTRAIL
+### Evaluation
 
-🧠 AegisAI
-Enterprise AI Operations Platform
+| Metric | Result |
+|---|---:|
+| Threat Detection F1 | **83.5% → 100%** |
+| False Positives | **18.8% → 0%** |
+| Held-out Evaluation | **80 cases** |
+| Tests | **44 passing** |
 
-A full-stack AI platform combining multi-agent RAG,
-security controls, and production backend infrastructure.
+**→ [Explore TRUSTRAIL](https://github.com/Ashutosh0540/Trustrail)**
 
-Stack
+---
 
-LangGraph · FastAPI · PostgreSQL · Redis
-· Pinecone · FAISS
+## 🧠 AegisAI
 
-Built around
+### Enterprise AI Operations Platform
 
-Multi-agent RAG orchestration
-JWT authentication & RBAC
-PII masking
-Prompt-injection detection
-Vector retrieval
-Audit logging
-PostgreSQL / Redis infrastructure
-🤖 Closira AI Agent
-AI Support & Automation
+A full-stack AI platform combining **multi-agent RAG, security controls, and production backend infrastructure**.
 
-An AI-powered workflow system focused on intelligent support,
-retrieval, and automation.
+**Stack:** `LangGraph` · `FastAPI` · `PostgreSQL` · `Redis` · `Pinecone` · `FAISS`
 
-Stack
+### Built Around
 
-Python · LLMs · RAG · AI Agents
+- Multi-agent RAG orchestration
+- JWT authentication & RBAC
+- PII masking
+- Prompt-injection detection
+- Vector retrieval
+- Audit logging
+- PostgreSQL / Redis infrastructure
 
-→ Explore Closira
+**→ [Explore AegisAI](https://github.com/Ashutosh0540)**
 
-☀️ Suryamukhi
-Autonomous Solar Intelligence
+---
 
-A computer-vision and machine-learning system for autonomous
-solar tracking and panel cleaning.
+## 🤖 Closira AI Agent
 
-Stack
+### AI Support & Automation
 
-Computer Vision · Machine Learning · Reinforcement Learning
+An AI-powered workflow system focused on intelligent support, retrieval, and automation.
 
-🏆 IEEE Best Design Award — 2024
+**Stack:** `Python` · `LLMs` · `RAG` · `AI Agents`
 
-📜 Patent Published
+**→ [Explore Closira](https://github.com/Ashutosh0540/closira-ai-agent)**
 
-🔬 SocialShield
-AI Misinformation Detection
+---
+
+## ☀️ Suryamukhi
+
+### Autonomous Solar Intelligence
+
+A computer-vision and machine-learning system for autonomous solar tracking and panel cleaning.
+
+**Stack:** `Computer Vision` · `Machine Learning` · `Reinforcement Learning`
+
+🏆 **IEEE Best Design Award — 2024**
+
+📜 **Patent Published**
+
+---
+
+## 🔬 SocialShield
+
+### AI Misinformation Detection
 
 Research focused on detecting misinformation using AI.
 
-92.78% accuracy
+**92.78% accuracy**
 
-📄 IEEE Published Research
+📄 **IEEE Published Research**
 
-🧰 Engineering Stack
-AI / GenAI
+---
 
-Agentic AI · RAG · LLM Applications · Tool Calling
+# 🧰 Engineering Stack
 
-LangGraph · LangChain · LlamaIndex · LangSmith
+### AI / GenAI
 
-Retrieval / ML
+`Agentic AI` · `RAG` · `LLM Applications` · `Tool Calling`
 
-FAISS · Pinecone · Embeddings · Semantic Search
+`LangGraph` · `LangChain` · `LlamaIndex` · `LangSmith`
 
-PyTorch · HuggingFace · YOLO
+### Retrieval / ML
 
-Backend
+`FAISS` · `Pinecone` · `Embeddings` · `Semantic Search`
 
-Python · FastAPI · PostgreSQL · SQLAlchemy
+`PyTorch` · `HuggingFace` · `YOLO`
 
-REST APIs · Redis · Microservices
+### Backend
 
-Infrastructure
+`Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy`
 
-Docker · AWS · Supabase
+`REST APIs` · `Redis` · `Microservices`
 
-Languages
+### Infrastructure
 
-Python · TypeScript · JavaScript · Java · SQL
+`Docker` · `AWS` · `Supabase`
 
-🏆 Recognition
+### Languages
 
-🏅 Top 10 Finalist
-UiPath AgentHack India 2025
+`Python` · `TypeScript` · `JavaScript` · `Java` · `SQL`
 
-🥈 2nd Runner-Up
-Navonmesh AIdea Challenge 2025
+---
 
-🏆 Best Design Award
-IEEE SSH 2024
+# 🏆 Recognition
 
-📜 Patent
-Suryamukhi
+| Achievement | Recognition |
+|---|---|
+| 🏅 | **Top 10 Finalist — UiPath AgentHack India 2025** |
+| 🥈 | **2nd Runner-Up — Navonmesh AIdea Challenge 2025** |
+| 🏆 | **Best Design Award — IEEE SSH 2024** |
+| 📜 | **Patent — Suryamukhi** |
+| 📄 | **IEEE Publication — SocialShield** |
+| 💻 | **200+ DSA Problems — LeetCode** |
 
-📄 IEEE Publication
-SocialShield
+---
 
-💻 200+ DSA Problems
-LeetCode
+# 💼 Experience
 
-💼 Experience
-AI Engineer Intern — Nexyrium
+### AI Engineer Intern — Nexyrium
 
-June 2026 — Present · Remote
+`June 2026 — Present · Remote`
 
 Working on:
 
-Agentic AI systems
-LLM tool calling
-Human-in-the-loop workflows
-Operational intelligence
-AI automation
-LangGraph / LangSmith
-Evaluation & observability
-PostgreSQL / Supabase infrastructure
-🔭 Currently Exploring
+- Agentic AI systems
+- LLM tool calling
+- Human-in-the-loop workflows
+- Operational intelligence
+- AI automation
+- LangGraph / LangSmith
+- Evaluation & observability
+- PostgreSQL / Supabase infrastructure
+
+---
+
+# 🔭 Currently Exploring
+
+```text
 Agentic AI
 ├── Planning
 ├── Tool Calling
@@ -228,9 +235,14 @@ Production AI
 ├── Observability
 ├── Reliability
 └── Deployment
+```
+
+---
+
 <div align="center">
-Building reliable AI systems, not just AI demos.
 
-LinkedIn · GitHub
+### Building reliable AI systems, not just AI demos.
 
-</div> ```
+**[LinkedIn](https://www.linkedin.com/in/ashutosh-kumar-singh-086546210/) · [GitHub](https://github.com/Ashutosh0540)**
+
+</div>
